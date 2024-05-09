@@ -1,0 +1,97 @@
+[
+    {
+        "sid": "001",
+        "name": "Ashfaaq Rifath",
+        "age": 21,
+        "address": "Dehiwala, Colombo",
+        "cgpa": 3.5
+    },
+
+    {
+        "sid": "002",
+        "name": "Yasid Jumar",
+        "age": 20,
+        "address": "Nugegoda, Colombo",
+        "cgpa": 3.8
+    },
+
+    {
+        "sid": "003",
+        "name": "Kaveesha Karapothus",
+        "age": 20,
+        "address": "Kaluthara town, Kaluthara",
+        "cgpa": 3.2
+    },
+
+    {
+        "sid": "004",
+        "name": "Abdulla Fawzan",
+        "age": 21,
+        "address": "Dehiwala, Colombo",
+        "cgpa": 3.9
+    },
+
+    {
+        "sid": "005",
+        "name": "Chandrapala Vijayadasa",
+        "age": 25,
+        "address": "Magoda, Ambalangoda",
+        "cgpa": 3.6
+    },
+
+    {
+        "sid": "006",
+        "name": "Channa Bandara",
+        "age": 22,
+        "address": "Lunava, Moratuwa",
+        "cgpa": 3.7
+    },
+
+    {
+        "sid": "007",
+        "name": "James Bond",
+        "age": 26,
+        "address": "Wellington Square, London",
+        "cgpa": 3.4
+    },
+
+    {
+        "sid": "008",
+        "name": "John Engine",
+        "age": 23,
+        "address": "Pine St, Mountainview",
+        "cgpa": 3.8
+    },
+
+    {
+        "sid": "009",
+        "name": "Malitha Perera",
+        "age": 21,
+        "address": "Badulla Road, Badulla",
+        "cgpa": 3.3
+    },
+
+    {
+        "sid": "010",
+        "name": "Dinesh Fernando",
+        "age": 20,
+        "address": "Hambantota Road, Hambantota",
+        "cgpa": 3.9
+    },
+
+    {
+        "sid": "011",
+        "name": "Kaveesha Polunayake",
+        "age": 20,
+        "address": "Nuwara Eliya Road, Nuwara Eliya",
+        "cgpa": 2.9
+    },
+
+    {
+        "sid": "012",
+        "name": "Pradeep Bandara",
+        "age": 20,
+        "address": "Negombo Road, Wattala",
+        "cgpa": 3.1
+    }
+]
