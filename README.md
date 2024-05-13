@@ -1,2 +1,2 @@
 # ETF-Class-Task-7
-ETF Class Task 7 - JSON &amp; AJAX
+Emerging Technologies & Frameworks (ETF) Class Task 7 - JSON & AJAX
